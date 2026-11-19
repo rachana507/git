@@ -1,3 +1,4 @@
+#this file is for calculator
 def calculate():
     # This function performs basic arithmetic operations
     operation = input("Enter operation (+, -, *, /): ")
